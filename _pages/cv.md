@@ -11,54 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Data Science and Machine Learning, National University of Singapore, Aug 2024 – Dec 2025
+* B.S. in Statistics, East China Normal University, Sep 2020 – Jun 2024
 
-Work experience
+Internships
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Feb 2024 – Jul 2024: LVMH - Data Modeling Intern
+  * Transformed large, complex data into user and product features using SQL, and helped my mentor building an XGBoost classification model to predict customer purchasing behaviour, achieving a high accuracy (AUC of 0.8) and increasing purchase rates by 350%-440%.
+  * Developed dashboards to monitor model performance (AUC, F1 score, etc.), purchase rate, and data source anomalies in order to evaluate and optimize models by using QuickBI.
+  * Conducted feature quality checks, implemented Python scripts for automation, saving time.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jul 2023 – Nov 2023: Zhongyan Technology - Research Intern
+  * Visualized survey data through bar charts, word clouds, etc., to analyse feedback from McDonald’s events, and presented enhancements in reports to improve customer experience.
+  * Executed significance tests on satisfaction metrics across different demographics and regions, aiding in product positioning.
+  * Self-taught web scraping techniques to extract store information and implemented automated processes to extract and analyse review keywords.
+  
+Skills and Hobby
+======
+* Programming Skills: Python(pandas, numpy, sklearn, keras), SQL, R, QuickBI, SPSS, Thinkcell
+* Analytical Skills: Machine Learning, Experimental Design, Casual Inference, Data Visualization, Data Crawling
+* Languages: Fluent in English and Mandarin (both spoken and written)
+* Hobby: Guzheng level 10
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
