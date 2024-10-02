@@ -4,4 +4,4 @@ excerpt: "Multivariate LSTM model achieves a higher accuracy<br/><img src='/imag
 collection: portfolio
 ---
 
-This is my graduation project. The report and codes are [here](https://github.com/qjymary/undergraduation_thesis).
+This is my undergraduation project. The report and codes are [here](https://github.com/qjymary/undergraduation_thesis).
