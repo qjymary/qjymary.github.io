@@ -17,7 +17,7 @@ Education
 Internships
 ======
 * Feb 2024 – Jul 2024: LVMH - Data Modeling Intern
-  * Transformed large, complex data into user and product features using SQL, and helped my mentor building an XGBoost classification model to predict customer purchasing behaviour, achieving a high accuracy (AUC of 0.8) and increasing purchase rates by 350%-440%.
+  * Transformed large, complex data into user and product features using SQL, and built an XGBoost classification model to predict customer purchasing behaviour, achieving a high accuracy (AUC of 0.8) and increasing purchase rates by 350%-440%.
   * Developed dashboards to monitor model performance (AUC, F1 score, etc.), purchase rate, and data source anomalies in order to evaluate and optimize models by using QuickBI.
   * Conducted feature quality checks, implemented Python scripts for automation, saving time.
 
