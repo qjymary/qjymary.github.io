@@ -4,5 +4,5 @@ excerpt: "We applied Bayesian methods and compared them with frequentist approac
 collection: portfolio
 ---
 
-This is a course project in the Bayesian Statistics class. The report and codes are [here](./Bayesian-Statistics-project.html).
+This is a course project in the Bayesian Statistics class. The report and codes are [here](/images/Bayesian-Statistics-project.html).
 
