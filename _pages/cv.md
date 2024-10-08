@@ -17,19 +17,21 @@ Education
 Internships
 ======
 * Feb 2024 – Jul 2024: LVMH - Data Modeling Intern
-  * Transformed large, complex data into user and product features using SQL, and built an XGBoost classification model to predict customer purchasing behaviour, achieving a high accuracy (AUC of 0.8) and increasing purchase rates by 350%-440%.
-  * Developed dashboards to monitor model performance (AUC, F1 score, etc.), purchase rate, and data source anomalies in order to evaluate and optimize models by using QuickBI.
-  * Conducted feature quality checks, implemented Python scripts for automation, saving time.
+  * Transformed about 100,000 users datasets into user features using SQL and built an XGBoost classification model to predict customer purchasing behavior, achieving a high accuracy (AUC of 0.8) and increasing purchase rates by 350% to 440%.
+  * Developed dashboards to monitor model performance (AUC, F1 score, etc.), purchase rate and data source anomalies in order to evaluate and optimize models by using QuickBI.
+  * Conducted feature quality checks and implemented Python scripts for automation, saving time.
 
 * Jul 2023 – Nov 2023: Zhongyan Technology - Research Intern
-  * Visualized survey data through bar charts, word clouds, etc., to analyse feedback from McDonald’s events, and presented enhancements in reports to improve customer experience.
-  * Executed significance tests on satisfaction metrics across different demographics and regions, aiding in product positioning.
-  * Self-taught web scraping techniques to extract store information and implemented automated processes to extract and analyse review keywords.
+  * Visualized survey data through bar charts, word clouds, and other methods to analyze feedback from McDonald’s events, presenting enhancements in reports to improve customer experience.
+  * Executed significance tests on satisfaction metrics across different demographics and regions, aiding in product
+positioning.
+  * Used web scraping techniques to extract store information and implemented automated processes to extract and
+analyze review keywords.
   
 Skills and Hobby
 ======
-* Programming Skills: Python(pandas, numpy, sklearn, keras), SQL, R, QuickBI, SPSS, Thinkcell
+* Programming Skills: Python, SQL, R, QuickBI, SPSS, ThinkCell
 * Analytical Skills: Machine Learning, Experimental Design, Casual Inference, Data Visualization, Data Crawling
-* Languages: Fluent in English and Mandarin (both spoken and written)
-* Hobby: Guzheng level 10
+* Languages: Proficient in English and Mandarin
+* Hobby: Guzheng Level 10
 
